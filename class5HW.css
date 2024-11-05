@@ -1,0 +1,37 @@
+header {
+    background-color: darkblue;
+    color: beige;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+}
+
+img{ 
+    border: 5px solid black;
+    border: 7px;
+    margin: 20px;
+    width: 200px;
+    transition: transform 0.4s;
+}
+
+img:hover{
+    transform: scale(1.5);
+
+}
+
+section{
+    background-color: grey;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 10px;
+    margin:20px;
+    text-align: center;
+}
+ 
+footer{
+    background-color: black;
+    color:azure;
+    text-align: center;
+    font-size: 23px;
+    padding: 10px;
+}
